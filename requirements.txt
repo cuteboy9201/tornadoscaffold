@@ -1,2 +1,2 @@
 # oslo==1.0.1 https://github.com/cuteboy9201/oslo.git 
-tornado==4.3
+tornado==6.3.3
